@@ -1,4 +1,4 @@
-package me.alaminkhan.springbootquickstart;
+package me.alaminkhan.springbootquickstart.topic;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

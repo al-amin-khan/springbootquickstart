@@ -1,6 +1,5 @@
 package me.alaminkhan.springbootquickstart.topic;
 
-import me.alaminkhan.springbootquickstart.Topic;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
